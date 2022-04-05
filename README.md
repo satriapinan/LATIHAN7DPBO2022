@@ -17,3 +17,19 @@ Pemanggilan Functions di index.php \
 
 Pembuatan menu dropdown untuk 'Order by' di skin.html \
 ![dropdown_orderBy](https://user-images.githubusercontent.com/99194983/161819950-30310838-7604-45ed-8a07-af836817db80.png)
+
+## Run Program
+Tampilan awal \
+![default](https://user-images.githubusercontent.com/99194983/161821795-0eb851a2-6f37-48dd-aab8-6c570af7151e.jpeg)
+
+Add (Insert) \
+![add](https://user-images.githubusercontent.com/99194983/161821819-3f6212f2-9cc2-496a-9332-1f4e61aa34df.jpeg)
+
+Update \
+![update](https://user-images.githubusercontent.com/99194983/161821830-83283934-847c-450e-be5c-b9eabc829afe.jpeg)
+
+Order by (ex: deadline) \
+![orderBy_deadline](https://user-images.githubusercontent.com/99194983/161821848-5ba5ef3e-4f21-4ec0-a53f-c44684c3cc2e.jpeg)
+
+Delete \
+![delete](https://user-images.githubusercontent.com/99194983/161821867-5846e86e-42eb-47f8-8c72-31e3814aed05.jpeg)
